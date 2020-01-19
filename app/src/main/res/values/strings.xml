@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Maps</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="apps_name">Navigation Drawer Example</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string-array name="workshop_type">
+        <item>workshop</item>
+        <item>tyre</item>
+        <item>acessories</item>
+        <item>aircond</item>
+        <item>repaint</item>
+    </string-array>
+
+
+</resources>
